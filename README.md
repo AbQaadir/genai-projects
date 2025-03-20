@@ -1,2 +1,1 @@
-"# GenAI" 
-"# genai-projects" 
+# GenAI Projects 
